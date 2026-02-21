@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "gym-diet-ai-project",
-  "private_key_id": "2a809c75243c3802440126f3cc51c721a659ee5d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj5OBlTvIiRctx\nF8E5zAsaYBo8BdpGVLZTx4DSF3jhLUcrB6eJTKV3XwWntLCLmp/aRKMtbTgj6wib\nwqwy803UjrI6nQv0u9cPtELZQTH01s7xsua7p643XAckd9MZ1iAAZmw1WACTfdM/\niHAeUGpiF87/QoK8KkJQmkqhIH+rU5xCiIvuwfiEqghYGawtHM42V4TZ+zQToqN2\nLsOOuNMQpKgGROtjd0X5N7adz8cHLcyEVpR1MYG1ukQlf+u/P/rW+b9w5gjvtlUe\n7ZfiREeaJqONnGOJicwGAM2wlz4BVLVs3MvcSECDFo4Nl0aBRYTCBX2yAZJ7DCao\ncTvnJg/TAgMBAAECggEASSKwU+T3vf2BPFVKX31DEyEBc/l0nt/cgORNAvOAeJNY\n58XBqE4wpGUdw+mowpNcc+0fF/1eCQEv1Tn417+k4o5O0EMWe756yMI69nHWVhip\nPkgEGIdKAeAqO8bQx/26SBNshB1iHG8QnpBG3/AomN9g+p12c3s0Hn3Lgb1b21p7\nRRP/GIufL8tTBLmvTSMoxj1dMP7WkKkWpOFZI9QsgS6QOXiixmyO/Uc8Jtko1MsX\nX5tgMzNSTaSFTFxM28gtpZAdxggBnyqJoXpQcUh0/1/Bg2ftu4wMyLzkGO+xBy1Z\nBXEnIbg/3KRig8MLoBXPMUrz9SHn4Ovw9PxQA+TiqQKBgQDkQcLiAX6B/OWUuplz\nre6REXc9bmSMlGIw3LT4aMSnyBk0Mdl6uef8gfoBF0+VZffyUJnrpLvHgW7nL2mW\nIWzxFeYTxmNTIl80w5N3aQIjiIB7s3fuf3uu0decy3LZh1kObGU10QSEh3VZvKS7\nmWnacrDJTNL0RToZTK5UQlsP/QKBgQC30HVfue0KbZbs9SmPOrbkgFL3Hrs42Mc3\nRsNDOqLIm/vYdhMCPBe1bzz/C+LJ8X/WK1grXqP8ZAwH9uwfXFsKH8aVSB8mPbNZ\nAp3xIzYF/jEe3pXb+lOmaPlzO0wZak1N8/ToJ3ll0mXe8NPgD1VJK4BAdhziD6gA\nM86yLLqgDwKBgF6S6L5fxBzzveP71KzbeiddRzyKytp8eJqqN8ldD249OEQqC2QQ\nNxCmggGFuRG7qBocT0oVfUBSXrMnL+Zmfw789dFnt6uwaCYiiq1FMv+qBSI74AtP\ngt2SUHXEzhdXPwz82IqNygNnZLYDtXWNQRCjyJ//VsCjFkl5PhnnTHe5AoGAQ0b+\nHtpbQyzXR8V3v5+63ymEtERAPE9Doxy4TTwB5rEI3bJhxLif6N1dEvCTwlws8QOO\nUtlh5ffsW2HqDJRuEeeNdIggNovwv8xwaJj9pfXinqzTZt9ZjJfxbVavxMGep8B5\nzBremQEIHjBBLEoQaiaM24sfiTI3yFMt/RLX/8sCgYEAqL9qBxOBPNNG3FCs43+8\nf0sNQhXT94nLYDhRaS4AJwI6RXdeXntPZ64Fx5Vdec9ISm9B2PK3IsyGAmsfea0v\nk8aCaKEPlF2Zim3ibklDxXAa4nQYyvhuBqREFmMzLuaA15x5IGt5pOOs6HFStyk6\neWzmRqQXlholBzNg6QP4LfE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "bigquery-admin-bot@gym-diet-ai-project.iam.gserviceaccount.com",
-  "client_id": "103786945573886208941",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-admin-bot%40gym-diet-ai-project.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
