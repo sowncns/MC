@@ -48,4 +48,4 @@ try:
                      f"thuật toán Cây quyết định xếp bạn vào nhóm {recommendation}.")
 
 except Exception as e:
-    st.warning("⚠️ Chờ một chút! Bạn cần chạy file 'train.py' trước để tạo mô hình.")
+    st.warning(" Bạn cần chạy file 'train.py' trước để tạo mô hình.")
